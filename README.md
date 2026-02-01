@@ -50,5 +50,5 @@ An **AI-powered web application** that automates the scraping of job listings fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-job-scraper.git
-cd ai-job-scraper
+git clone https://github.com/Bittu169/AI_Powered_Job_Scrapper.git
+cd AI_Powered_Job_Scrapper
