@@ -44,7 +44,10 @@ An **AI-powered web application** that automates the scraping of job listings fr
 7. Optionally exports results to **CSV**.
 
 ---
+## 🎥 Demo Video
+▶️ [Watch Demo on YouTube](https://youtu.be/GG1IQ8yhasg?si=dOBNHOo2QjUmP7Vo)
 
+---
 ## 🔹 Usage
 
 1. Clone the repository:
